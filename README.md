@@ -1,4 +1,8 @@
-## <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">Hy,<br/> I am <a href="https://github.com/PatrickBastosDeveloper">Patrick!</h1>
+##
+## 
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">Hy,<br/> I am <a href="https://github.com/PatrickBastosDeveloper">Patrick!</h1>
+
+##
    
 Find me at:<br/> 
 
@@ -21,6 +25,7 @@ or <br/>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="git" width="30" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+    <img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="155px">
 </div>
 
 ##
