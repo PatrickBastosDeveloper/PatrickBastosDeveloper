@@ -27,7 +27,7 @@ or...
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="git" width="30" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-   <img align="center" alt="git" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+   <img align="center" alt="linux" width="35" height="40" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" />
     <img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="155px">
 </div>
 
