@@ -7,7 +7,7 @@ Find me at:<br/>
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?1=pt_BR&phone=5524992641930)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patrickbastosc/) <br/>
 or <br/>
-<img src="https://vignette.wikia.nocookie.net/harrypotter/images/a/a8/Hedwig_1994.gif/revision/latest/scale-to-width-down/241?cb=20140912134905" width="205px"> 
+<img src="https://vignette.wikia.nocookie.net/harrypotter/images/a/a8/Hedwig_1994.gif/revision/latest/scale-to-width-down/241?cb=20140912134905" width="235px"> 
 ##
 
 <div align="center">
