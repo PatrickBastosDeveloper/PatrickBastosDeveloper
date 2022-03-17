@@ -23,15 +23,14 @@ or...
 ### <🛠> Tech Stack </🛠>
    
 <div style='display: inline_block'><br>
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="git" width="30" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-   <img align="center" alt="linux" width="35" height="40" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" />
+   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+   <img align="center" alt="linux" width="40" height="40" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" />
     <img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="155px"/>
    <img align="center" alt="react" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"/>
-   <img align="center" alt="redux" width="35" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
-   <img align="center" alt="git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+   <img align="center" alt="redux" width="35" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>   
    <img align="center" alt="jest" width="40" height="40"src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
 </div>
 
