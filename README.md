@@ -58,18 +58,20 @@ I am Patrick, developer full stack.</h1>
 ---
 
 <h3>Backend Development</h3>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" align="center" width="60" height="40"/> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" align="center" width="60" height="40"/> 
 </a>
 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" align="center" width="40" height="40"/> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+<img src="https://icongr.am/devicon/express-original.svg?size=128&color=79a08e" alt="express" align="center" width="40" height="40"/> 
 </a>
-
+          
 ---
 
 <h3>Database</h3>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
 </a> 
 
 ---
@@ -93,14 +95,15 @@ I am Patrick, developer full stack.</h1>
 ---
 
 <h3>Software</h3>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" align="center" width="40" height="40"/> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" align="center" width="40" height="40"/> 
 </a>
 
 ---
 
 <h3>Other</h3>
 <a href="" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" align="center" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" align="center" width="40" height="40"/>
 </a>
 <a href="" target="_blank" rel="noreferrer"> 
 <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="linux" align="center" width="40" height="40" />
