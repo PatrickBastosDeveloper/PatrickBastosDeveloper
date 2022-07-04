@@ -1,13 +1,15 @@
 Click aqui para ver esse README em [Português](https://github.com/PatrickBastosDeveloper/PatrickBastosDeveloper-pt.git)
 
 ---
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" align="center" height="60" width="60">
 
+<div align="center">
 <h1>Hy!!
 <br/> 
 I am Patrick, developer full stack.</h1>
+</div>
 
 I am an individual with a keen eye for details, seeking to advance my technological knowledges and career.
+<img align="center" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" align="center" height="40" width="40">
 
 ---
 - ⚡ **Fun fact:** 
@@ -16,10 +18,12 @@ Click and see your self
 <a href="https://www.youtube.com/c/https://www.youtube.com/c/omundodeoliver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/omundodeoliver" height="30" width="40" /></a>
 
 - 🔭 I’m currently working on: Node.js:ORM(sequelize) and JWT.
-- 💬 Talk to me about music :guitar:, movies, series and anything that interests you.
+- 💬 Talk to me about: music :guitar:, movies, series and anything that interests you.
 - 🌱 I’m currently pursuing: studing object oriented programming (POO) and SOLID. Soon mongoDB with Node.js.
 
-### <📫> Find me at: </📫>
+---
+
+### <div align="center"> <📫> Find me at </📫></div>
 <br/> 
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickbastosdeveloper/)
@@ -27,7 +31,7 @@ Click and see your self
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?1=pt_BR&phone=5524992641930)
 
 ---
-### <📊> Stats </📊>
+### <div align="center"> <📊> Stats </📊></div>
 <br>
 
 <div align="center">
@@ -37,7 +41,7 @@ Click and see your self
 </div>
    
 ---
-### <🛠> Tech Stack </🛠>
+### <div align="center"> <🛠> Tech Stack </🛠></div>
 
 ---
 <h3>Programming Languages</h3>
