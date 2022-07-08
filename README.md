@@ -1,4 +1,4 @@
-Click aqui para ver esse README em [Português](https://github.com/PatrickBastosDeveloper/PatrickBastosDeveloper-pt.git)
+Você também pode ver esse README em [Português](https://github.com/PatrickBastosDeveloper/PatrickBastosDeveloper-pt.git):brazil:
 
 ---
 
