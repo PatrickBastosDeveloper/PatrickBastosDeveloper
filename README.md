@@ -15,7 +15,7 @@ I am an individual with a keen eye for details, seeking to advance my technologi
 - ⚡ **Fun fact:** 
 My family and I have had a children's YouTube channel since the beginning of the pademia. There you can follow my great performances...kakakakrying.
 Click and see your self 
-<a href="https://www.youtube.com/c/https://www.youtube.com/c/omundodeoliver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/omundodeoliver" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/c/omundodeoliver" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/omundodeoliver" height="30" width="40" /></a>
 
 - 🔭 I’m currently working on: Node.js:ORM(sequelize) and JWT.
 - 💬 Talk to me about: music :guitar:, movies, series and anything that interests you.
