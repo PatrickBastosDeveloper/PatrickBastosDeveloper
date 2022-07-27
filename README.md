@@ -17,9 +17,9 @@ My family and I have had a children's YouTube channel since the beginning of the
 Click and see your self 
 <a href="https://www.youtube.com/watch?v=mB5fwFfEgrY&t=329s" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/omundodeoliver" height="30" width="40" /></a>
 
-- 🔭 I’m currently working on: Node.js:ORM(sequelize) and JWT.
+- 🔭 I’m currently working on: Node.js:OOP and SOLID
 - 💬 Talk to me about: music :guitar:, movies, series and anything that interests you.
-- 🌱 I’m currently pursuing: studing object oriented programming (POO) and SOLID. Soon mongoDB with Node.js.
+- 🌱 I’m currently pursuing: MongoDB with Node.js.
 
 ---
 
