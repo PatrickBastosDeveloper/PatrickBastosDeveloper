@@ -94,7 +94,18 @@ Click and see your self
 </a>
 
 ---
+   
+<h3>Frameworks (ORM e ODM)</h3>
 
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="https://miro.medium.com/max/1400/1*F0HA_9ZjT9Adjypo1fwhUw.png" alt="mysql" align="center" width="90" height="40"/> 
+</a> 
+<a href=""_blank" rel="noreferrer"> 
+<img src="https://miro.medium.com/max/1050/1*acfAKaDI7uv5GyFnJmiPhA.png" alt="mongodb" align="center" width="90" height="40"/> 
+</a>
+
+---
+                                                                                                                            
 <h3>Devops</h3>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
