@@ -1,6 +1,7 @@
 **Você também pode ver esse README em PT-BR clicando em: [Português](https://github.com/PatrickBastosDeveloper/PatrickBastosDeveloper-pt.git):brazil:**
 
 ---
+![](https://komarev.com/ghpvc/?username=PatrickBastosDeveloper&style=flat&color=dc143c)
 
 <div align="center">
 <h1>Hy!!
