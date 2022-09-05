@@ -6,7 +6,7 @@
 <div align="center">
 <h1>Hy!!
 <br/> 
-I am Patrick, developer full stack.</h1>
+I am Patrick, developer back-end.</h1>
 </div>
 
 I am an individual with a keen eye for details, seeking to advance my technological knowledges and career.
