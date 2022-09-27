@@ -77,6 +77,25 @@ Click and see your self
           
 ---
 
+<h3>Frontend</h3>
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="center" alt="HTML" height="40" width="40" >
+</a>
+
+<a href="" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="center" alt="CSS" height="40" width="40" >
+</a>
+
+<a href="" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" align="center" alt="react" width="40" height="40" />
+</a>
+
+<a href="" target="_blank" rel="noreferrer"> 
+<img align="center" alt="redux" width="35" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/> 
+</a>
+
+---
+   
 <h3>Database</h3>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
