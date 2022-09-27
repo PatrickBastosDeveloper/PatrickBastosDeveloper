@@ -46,35 +46,27 @@ Click and see your self
 
 ---
 <h3>Programming Languages</h3>
-<a href="" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" align="center" height="40" width="40" >
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" align="center" width="40" height="40"/> 
 </a>
+
+<a href="" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Js" align="center" width="40" height="40"/>
+</a>
+
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" align="center" width="40" height="40"/> 
 </a>
 
----
-
-<h3>Frontend Development</h3>
-<a href="" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="center" alt="HTML" height="40" width="40" >
-</a>
-
-<a href="" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="center" alt="CSS" height="40" width="40" >
-</a>
-
-<a href="" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" align="center" alt="react" width="40" height="40" />
-</a>
-
-<a href="" target="_blank" rel="noreferrer"> 
-<img align="center" alt="redux" width="35" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" align="center" width="40" height="40"/> 
 </a>
 
 ---
 
 <h3>Backend Development</h3>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" align="center" width="40" height="40"/> </a>
+
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" align="center" width="60" height="40"/> 
 </a>
