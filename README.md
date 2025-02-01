@@ -92,7 +92,5 @@ Git | GitHub | Azure DevOps
    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PatrickBastosDeveloper&show_icons=true&theme=radical"/>
    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickBastosDeveloper&layout=compact&langs_count=7&theme=radical"/>
 </div>
-   
----
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="right" width="50">
