@@ -3,19 +3,16 @@
 ---
 ![](https://komarev.com/ghpvc/?username=PatrickBastosDeveloper&style=flat&color=dc143c)
 
+---
 <div align="center">
 <h1>Hy!!
 <br/> 
 I am Patrick, developer back-end.</h1>
 </div>
 <div align="center">
-<center>
-   I am an individual with a keen eye for details, seeking to advance my technological knowledges and career.<br>
-Below are the main languages ​​and technologies that I have used in my developments since 2021.
-</center>
+   I am an individual with a keen eye for details, seeking to advance my technological knowledges and career. 
+   Back-End developer specialized in .NET and C#, with experience in building scalable APIs, microservices and distributed systems.<br>
 </div>
-
----
 
 ### <div align="center"> <📫> Find me at </📫></div>
 <br/> 
@@ -32,20 +29,16 @@ Below are the main languages ​​and technologies that I have used in my devel
   </a>  
 </div>
 
----
-### <div align="center"> <📊> Stats </📊></div>
-<br>
-
 <div align="center">
-<a href="https://github.com/PatrickBastosDeveloper">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PatrickBastosDeveloper&show_icons=true&theme=radical"/>
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickBastosDeveloper&layout=compact&langs_count=7&theme=radical"/>
+<br> Below are the main languages ​​and technologies that I have used in my developments since 2021.
 </div>
-   
+
 ---
+
 ### <div align="center"> <🛠> Tech Stack </🛠></div>
 
 ---
+
 <h3>Methodologies</h3>
 Scrum | Kanban
 
@@ -88,5 +81,18 @@ RabbitMQ | Kafka
 
 <h3>Version Control</h3>
 Git | GitHub | Azure DevOps
+
+---
+
+### <div align="center"> <📊> Stats </📊></div>
+<br>
+
+<div align="center">
+<a href="https://github.com/PatrickBastosDeveloper">
+   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PatrickBastosDeveloper&show_icons=true&theme=radical"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickBastosDeveloper&layout=compact&langs_count=7&theme=radical"/>
+</div>
+   
+---
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="right" width="50">
