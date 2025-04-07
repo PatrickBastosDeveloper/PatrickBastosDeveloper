@@ -9,6 +9,7 @@
 <br/> 
 I am Patrick, developer back-end.</h1>
 </div>
+
 <div align="center">
    I am an individual with a keen eye for details, seeking to advance my technological knowledges and career. 
    Back-End developer specialized in .NET and C#, with experience in building scalable APIs, microservices and distributed systems.<br>
@@ -99,6 +100,8 @@ Git | GitHub | Azure DevOps
   <a href="https://portfolio-patrick-bastos.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View-My%20Portfolio-blue" alt="View My Portfolio">
   </a>
+  <br>
+  <img src="qrcode.png" alt="QR Code">
 </div>
 
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="right" width="50">
